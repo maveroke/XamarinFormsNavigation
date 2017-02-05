@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsNav.Droid", "Droid\XF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsNav.UITests", "UITests\XFormsNav.UITests.csproj", "{975C5303-1B5F-4714-82CE-2678F7142E32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsModel", "XFormsModel\XFormsModel.csproj", "{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,5 +69,17 @@ Global
 		{975C5303-1B5F-4714-82CE-2678F7142E32}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{975C5303-1B5F-4714-82CE-2678F7142E32}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{975C5303-1B5F-4714-82CE-2678F7142E32}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Release|iPhone.Build.0 = Release|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{DE2489F9-4DCC-4491-8FEC-09968B57CBC6}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
